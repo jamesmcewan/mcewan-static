@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/jamesmcewan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mcewan.io
+  * I am jamesmcewan (https://keybase.io/jamesmcewan) on keybase.
+  * I have a public key with fingerprint ACF0 A995 A5E1 03DC 4A38  BC87 4EAD FB6D 8F4A E272
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208dd61e7aa2b28a306de119282bc55ac3ecc13625a9d7a3855e70477a2e978faa0a",
+      "fingerprint": "acf0a995a5e103dc4a38bc874eadfb6d8f4ae272",
+      "host": "keybase.io",
+      "key_id": "4eadfb6d8f4ae272",
+      "kid": "01014767d8c6d5bff3a4c45c5bce371b9d03eac8d3fce4dc5d7ee72cd2069902254e0a",
+      "uid": "c09d87d2b3340b91af89bad900a98d19",
+      "username": "jamesmcewan"
+    },
+    "service": {
+      "hostname": "mcewan.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505555126,
+  "expire_in": 157680000,
+  "prev": "397719e43ede3bf46759d49e655e0ae07a142cf920410783f07b7f87b42ae218",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJrUFVVFL6gkNwZGBgCHEknz1wa4nHnvPc5NyIKqrEHhqYMZtI+Z++D
+J+DewzmXy8NwygYGRYcmJSBpxB7atZzACooYAyMhhETFGEYjZDQHhSQeTQZk56L+
+a/1Zs9f6vm9/a+3dFbzMYvVLPz6fX/3cmO53prO20JLVPt2yg5BcqIRw7CBy8VLC
+eQgb7uxcFREOgqRoUkCIpzCAkJZoATIkjzBFibRASzLHQZnBskwxPM1BEQHICByH
+AckCAGksAkGBkIREAqGozhysa7rqdJuyUFZIKIoc5DBFMkhmTZ4kC4DFECkSjwSF
+hZgGtEnc7jJ8DNOcBA1sV11mzTxkL9n7H/x93yTFAh4gQeYRJykKA1mZ5WROkjED
+KElEJIOhLCBGkTGLZA4BjAEtI5rkRZGkaY7FS74Ll+RkUkQCQLTEMCwpiRRUBFGC
+SCTNKQREiT6ggXUnzMcm+nUzGfkyLoJOoiyBMBseVca+3fqGuQe62787j6a73C7Z
+lWeWt7vdmuHw0dwlmg9XhKXsewrZkupE5h5NhgfrhupyEg7KRMpu1SdJcSRnBkXz
+CQQu1lQdZ6s+BAd4gTTDdw/2mJKMCAAlYpbBCDOSwvKAExErYt58OhJiEkCKpWVF
+pEmWIoHAKCSQgCIAiaXNLVMC4ZupwOkiHMC0CXNMSUPNcUJ3oY6JslOdW5db/KyW
+wAB/3/+yWINC7/+6nOlQSxNcNRJR+sNYbIzqJfIldfFGX+wz1hPt9R5biFZqo988
+Gl1cOqQtTA/dXLe34m//Wzu9nb/Nz7xmE/XHV7Z2LNbN30Ipk70XDkS+FP+Wy5Hc
+0biQXHxV5msN64kul7EpdtR5vn74Usrmc8Mrjj28q/+T8EZHeVl8xix9bc5Zydnf
+o/Z19766OzJJtMXsVE53lqZ+pkU1vJDZcDV6/VTj8fI1N/s2JtnE2Y3+wV1DJ0N7
+tvbPel8OvHInCcY9+2JJd0OS8sEWQqqse5SIyYr7aepSH6NnTKVEHH6spn9VS1hD
+/tnE+S1PT9T8OJ71u601c7AivHigtaX/m6+/nbSPvOttDU2brgz3BD2x91pa9Gzp
+6OTEuTg9JO37yMApe9tfD9YMWU+Gl00HUXWWmarOQdv1kM0pXFR41f4pb3FN0TGt
+Z9eawQ/DvLUBP19fWbn6yLB251D325/3bGPiC76YGVgOXrFp9MH6B0DwH560f6o3
+HBq30h3bfql2J/qfCooaPXAjzJ6b+2vMO4uweW1Bnoc7n3g643J7rBRF6LGpX5Ul
+rD07cng4psKRPPp8eupTA1VHJtJ7L3505o3yRH1hLDM54OIjcavn1l8RV4wfZfZ9
+V7OMr0KuDXuShPrLjtTUtve9m5o+XmedW8iK6Lh9YTbFaN6zf8H+70NtzZ9+efD2
+n027ef+hJ0P/A6XsxeM=
+=zfGf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesmcewan
+
+==================================================================
